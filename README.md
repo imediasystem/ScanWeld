@@ -1,3 +1,5 @@
+<img width="1890" height="911" alt="Zrzut ekranu 2026-09-12 090608" src="https://github.com/user-attachments/assets/429336df-6c17-40fc-89f8-dea201492c38" />
+
 ## 🔥 Project Name - SCANWELD
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scanweld.pl/)
